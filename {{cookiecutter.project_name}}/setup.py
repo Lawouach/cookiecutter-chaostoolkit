@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""chaostoolkit slack extension builder and installer"""
+"""{{ cookiecutter.project_name }} extension builder and installer"""
 
 import sys
 import io

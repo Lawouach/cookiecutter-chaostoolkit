@@ -1,4 +1,4 @@
- {{ cookiecutter.project_short_description }}
+ # {{ cookiecutter.project_short_description }}
 
 [![Python versions](https://img.shields.io/pypi/pyversions/{{ cookiecutter.project_name }}.svg)](https://www.python.org/)
 
